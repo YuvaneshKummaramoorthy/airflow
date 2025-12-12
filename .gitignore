@@ -1,1 +1,5 @@
-.airflow-env/
+airflow-env/
+.env
+airflow.cfg
+airflow.db
+demo.txt
